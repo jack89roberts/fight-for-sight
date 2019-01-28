@@ -1,0 +1,36 @@
+EPMC - seems to be better for "Fight for Sight" key word search
+===================================================================
+
+Documentation:
+https://europepmc.org/RestfulWebService#/
+
+Query one paper:
+https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=29069518&resultType=core
+
+Query terms:
+general:
+https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%22fight%20for%20sight%22&resultType=core
+
+funding agency:
+https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=GRANT_AGENCY:%22fight%20for%20sight%22&resultType=core
+
+Pagination (max page size = 1000):
+&cursorMark=*&pageSize=25
+
+Query citations:
+https://www.ebi.ac.uk/europepmc/webservices/rest/MED/29069518/citations?page=1&pageSize=25&format=xml
+
+
+
+PubMed/PMC
+===========
+
+Documentation:
+https://www.ncbi.nlm.nih.gov/pmc/tools/get-metadata/
+https://www.ncbi.nlm.nih.gov/books/NBK25500/#chapter1.Downloading_Document_Summaries
+
+Query one paper:
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=29069518&tool=my_tool&email=my_email@example.com
+
+Query terms:
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=pmc&term=%22fight%20for%20sight%22
