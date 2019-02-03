@@ -1,0 +1,142 @@
+ABCA4
+ABCA4
+AMD
+CDHR1
+COL8A2
+CPAMD8
+ELOVL4
+FRMD7
+OVOL2
+PAX6
+PRPF31
+RPE65
+SLC4A11
+TCF8
+USH2A
+ZEB1
+acanthamoeba
+achromatopsia
+acrysof
+aflibercept
+albinism
+alstrom syndrome
+amaurosis
+amblyopia
+aniridia
+anophthalmia
+anterior segment
+aphakia
+astigmatism
+bechets disease
+best disease
+birdshot
+blepharitis
+blepharokeratoconjunctivitis
+blindness
+cataract
+charles bonnet syndrome
+chorioretinal
+chorioretinopathy
+choroideraemia
+choroideremia
+choroidopathy
+coats disease
+coloboma
+cone dystrophy
+conjunctiva
+conjunctivitis
+cornea
+corneal
+descemet
+diplopia
+drusen
+dry eye
+emmetropia
+endophthalmitis
+enophthalmos
+epiphora
+epiretinal
+episcleritis
+esotropia
+exotropia
+extraocular
+eye disease
+eye floaters
+eye sight
+eyelea
+glaucoma
+gonioscopy
+graves' disease
+hemianopsia
+hypermetropia
+intracameral
+intravitreal
+iridocyclitis
+iritis
+keratitis
+keratoconjunctivitis
+keratoconus
+keratopathy
+lacrimal
+leber's
+logmar
+long sightedness
+lucentis
+luxterna
+macula
+macular
+marfan syndrome
+microphthalmia
+myopia
+nodular degeneration
+nystagmus
+ocular
+ophthalmia
+ophthalmologist
+ophthalmology
+optic atrophy
+optic disc
+optic nerve
+optic neuritis
+optic neuropathy
+optometrist
+optometry
+optotype
+pigment dispersion
+posterior cortical atrophy
+presbyopia
+pseudoexfoliation
+pseudoxanthoma
+pterygium
+pupillary
+ranibizumab
+refractive error
+retina
+retinal
+retinitis
+retinoblastoma
+retinopathy
+retinotopic
+retinotopy
+schlemm
+sclera
+scleritis
+short sightedness
+sight loss
+sjorgen's
+stargardt's disease
+stereoacuity
+stereogram
+stevens johnson syndrome
+stickler syndrome
+strabismus
+trachoma
+usher syndrome
+uveal
+uveitis
+vision acuity
+vision impairment
+vision loss
+visual impairment
+visual loss
+vitreous
